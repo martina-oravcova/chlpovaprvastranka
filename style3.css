@@ -1,0 +1,40 @@
+.container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+h1{
+	font-family: fantasy;
+	font-size: 3em;
+	border-bottom: 4px solid #B3DD0D;
+	border-right: 4px solid  #B3DD0D;
+	border-left: 4px solid #B3DD0D;
+	text-align: center;
+
+}
+
+img{
+	width: 450px;
+	height: 300px;
+	margin: 10px;
+	transition: transform 1s;
+}
+img:hover{
+	transform: scale(1.1);
+}
+body{
+	background-image:url(https://images.unsplash.com/photo-1508614999368-9260051292e5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80);
+	background-size: cover;
+}
+#button1{
+	cursor: pointer;
+	border: 2px solid red;
+	background-color: pink;
+	font-size: 35px;
+}
+#orámovanie{
+	border: 5px solid yellow;
+
+}
+

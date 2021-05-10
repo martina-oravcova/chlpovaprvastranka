@@ -1,0 +1,31 @@
+a{
+	color: purple;
+	font-size:500%; 
+}
+body {
+	background-image: url(https://images.unsplash.com/photo-1601436155198-2ebfea8117b0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80);
+}
+#p1 {
+	font-size: 500%;
+	color: red;
+}
+#p2 {
+	font-size: 20px;
+}
+
+p { 
+	font-size: 20px;
+	color: green;
+ }
+
+ span {
+ 	font-size: 5rem;
+ }
+#button1{
+	cursor: pointer;
+	border: 2px solid red;
+	background-color: pink;
+}
+#orámovanie{
+	border: 5px solid yellow;
+}
